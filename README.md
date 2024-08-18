@@ -3,8 +3,10 @@
 <img  class="hero" src='./assets/images/hero.svg'/>
 </div>
 <div id="about-section" class="card">
+<h1 class="card-title">About</h1>
 </div>
 <div id="skills-section" class="card">
+<h1 class="card-title">Skills</h1>
 </div>
 <div id="experience-section" class="card">
 </div>
