@@ -1,55 +1,37 @@
-<section class="bento-grid" style="display:grid;gap:1rem;grid-template-areas:'hero-section hero-section hero-section hero-section' 
-                            'about-section about-section skills-section skills-section'
-                            'experience-section experience-section experience-section hobbies-section'
-                            ' footer-section  footer-section footer-section hobbies-section'">
-<!-- HERO SECTION -->
-<div id="hero-section" style="grid-area: hero-section;">
-<img style="background-size: cover;border-radius: 1rem;" src='./assets/images/hero.svg'/>
-</div>
+# Hey there, I'm Alejandro Fuentes! 👋
 
-<!-- ABOUT SECTION -->
-<div id="about-section" style="grid-area: about-section;border-radius: 1rem;min-height: 10rem;background-color: #3C9281;">
-<h1 style="color:white;margin: 1rem;">About</h1>
-</div>
+### About Me
 
-<!-- SKILLS SECTION-->
-<div id="skills-section" style="grid-area: skills-section;border-radius: 1rem;min-height: 10rem;background-color: #3C9281;">
-<h1 style="color:white;margin: 1rem;">Skills</h1>
-</div>
-<!-- EXPERIENCE SECTION -->
-<div id="experience-section" style="grid-area: experience-section;border-radius: 1rem;min-height: 10rem;background-color: #3C9281;">
-</div>
+- **💼 Current Role:** Full Stack Software Engineer at Plexus Tech.
+- **🛠️ Tech Stack:** Angular, Spring Boot, MongoDB.
+- **⭐️ Languages:** JavaScript, TypeScript, Java.
+- **📚 Continuous Learning:** Always eager to expand my skill set—currently diving deeper into full-stack development and modern web technologies.
+- **⚽ Hobbies:** Running, reading, working out, playing football, and, of course, coding.
 
-<!-- HOBBIES SECTION -->
-<div id="hobbies-section" style="grid-area: hobbies-section;border-radius: 1rem;min-height: 10rem;background-color: #3C9281;">
-<h1 style="color:white;margin: 1rem;">Hobbies</h1>
-<ul style="list-style-type: none;">
-<li style="display:flex;flex-direction: row;gap:1rem;align-items: start;color:white;"><img  class="hero" src='./assets/icons/run.svg'/><p style="margin:0;color:white;font-size: 1.5rem">Running</p></li>
-<li style="display:flex;flex-direction: row;gap:1rem;align-items: start;color:white;"> <img  class="hero" src='./assets/icons/book.svg'/><p style="margin:0;color:white;font-size: 1.5rem">Reading</p></li>
-<li style="display:flex;flex-direction: row;gap:1rem;align-items: start;color:white;"><img  class="hero" src='./assets/icons/barbell.svg'/><p style="margin:0;color:white;font-size: 1.5rem">Gym</p></li>
-<li style="display:flex;flex-direction: row;gap:1rem;align-items: start;color:white;"><img  class="hero" src='./assets/icons/chef-hat.svg'/><p style="margin:0;color:white;font-size: 1.5rem">Cooking</p></li>
-<li style="display:flex;flex-direction: row;gap:1rem;align-items: start;color:white;"> <img  class="hero" src='./assets/icons/plane-inflight.svg'/><p style="margin:0;color:white;font-size: 1.5rem">Travelling</p></li>
-<li style="display:flex;flex-direction: row;gap:1rem;align-items: start;color:white;"><img  class="hero" src='./assets/icons/ball-football.svg'/><p style="margin:0;color:white;font-size: 1.5rem">Football</p></li>
-<li style="display:flex;flex-direction: row;gap:1rem;align-items: start;color:white;"><img  class="hero" src='./assets/icons/code-circle.svg'/><p style="margin:0;color:white;font-size: 1.5rem">Coding</p></li>
-</ul>
-</div>
+---
 
-<!-- FOOTER SECTION -->
-<div style="grid-area: footer-section;border-radius: 1rem;min-height: 10rem;background-color: #3C9281;">
-</div>
-</section>
+### 🎯 What I'm Working On
 
-<!--
-**alefuegom/alefuegom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Astro Blog:** Developing a personal blog using Astro to share insights, projects, and my journey as a developer.
+- **Community Collaboration:** Open to contributing to interesting open-source projects and collaborating with fellow developers. Let’s build something great together!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefuegom&show_icons=true&theme=dark)
+
+---
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_Fuentes-439E8B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://es.linkedin.com/in/alejandro-fuentes-g%C3%B3mez-78375b208)
+[![X](https://img.shields.io/badge/X-@alefuegom-439E8B?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://twitter.com/alefuegom)
+
+---
+
+### ⚡ Fun Fact
+
+In my free time, I enjoy pushing my limits, whether it's through intense workouts, running larger distances, or tackling new programming challenges. I'm always striving to improve, both physically and mentally.
+
+---
